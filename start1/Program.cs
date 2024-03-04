@@ -10,9 +10,15 @@ namespace start1
     {
         static void Main(string[] args)
         {
-            string name = "arik";
-            Console.WriteLine("Shalom world! "+ name );
+            //string name = "arik";
+            //int age = 39;
+            //double test = 5.6;
+            //bool isCool = true;
+            //Console.WriteLine(" Shalom world! ");
+            //Console.WriteLine(name + " is " + age + " years old.");
 
+            string you =Console.ReadLine();
+            Console.WriteLine(you);
         }
     }
 }
